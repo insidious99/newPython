@@ -1,0 +1,45 @@
+Important questions
+
+Python Programming
+Q.1 Write a Python program to print Factorial number.
+
+Q.2 Write a Python program to print Fibonacci series.
+
+Q.3 Write a Python program to table of given number.
+
+Q.4 Write a Python program to check number is Armstrong or not.
+
+Q.5 Write a Python program to print reverse string.
+
+Q.6 Write a Python program to check whether the string is Symmetrical or Palindrome.
+
+Q.7 Write a Python program to swap two variables.
+
+Q.8 Write a Python program to check Leap Year.
+
+Q.9 Write a Python Program to check if a Number is Positive, Negative or Zero.
+
+Q.10 Write a Python program to check number is odd or even.
+
+Q.11 Write a Python program to check perfect number.
+
+Q.12 Write a Python program to construct the following pattern, using a nested for loop.
+    (a) 
+    *
+    **
+    ***
+    ****
+    (b)
+    1
+    12
+    123
+    (c)
+    1
+    22
+    333
+    4444
+    (d)
+    A
+    BB
+    CCC
+    DDDD
